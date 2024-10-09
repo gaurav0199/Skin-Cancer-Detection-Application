@@ -1,5 +1,3 @@
-# Skin-Cancer-Detection-Application
-Capstone project
 # Skin Cancer Detection Using Convolutional Neural Network
 
 This is my final year capstone project of master's in Mathematics and Data Science the project involves detecting and classifying 9 types of skin cancer using deep learning techniques. It leverages advanced image processing and convolutional neural networks (CNNs) to achieve high accuracy in skin cancer diagnosis, providing a valuable tool for early detection and treatment planning.
