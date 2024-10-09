@@ -48,8 +48,8 @@ The model architecture is based on base cnn model. I also leverage transfer lear
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/gaurav0199/Skin-Cancer-Detection-App.git
-    cd Skin-Cancer-Detection-App
+    git clone https://github.com/gaurav0199/Skin-Cancer-Detection-Application.git
+    cd Skin-Cancer-Detection-Application
     ```
 
 2. Install the required packages:
